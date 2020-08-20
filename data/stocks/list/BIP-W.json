@@ -1,0 +1,1 @@
+{"pagination": {"limit": 10000, "offset": 0, "count": 1, "total": 1}, "data": [{"open": 37.38, "high": 37.38, "low": 35.0, "close": 35.0, "volume": 200.0, "adj_high": 37.38, "adj_low": 35.0, "adj_close": 35.0, "adj_open": 37.38, "adj_volume": 200.0, "symbol": "BIP-W", "exchange": "XNYS", "date": "2020-03-30T00:00:00+0000"}]}

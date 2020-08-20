@@ -1,0 +1,1 @@
+{"pagination": {"limit": 10000, "offset": 0, "count": 1, "total": 1}, "data": [{"open": 26.05, "high": 26.05, "low": 26.05, "close": 26.05, "volume": 750.0, "adj_high": 26.05, "adj_low": 26.05, "adj_close": 26.05, "adj_open": 26.05, "adj_volume": 750.0, "symbol": "FVI", "exchange": "XNYS", "date": "2015-01-08T00:00:00+0000"}]}

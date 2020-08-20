@@ -1,0 +1,1 @@
+{"pagination": {"limit": 10000, "offset": 0, "count": 1, "total": 1}, "data": [{"open": 10.0, "high": 10.025, "low": 10.0, "close": 10.0, "volume": 7172002.0, "adj_high": 10.025, "adj_low": 10.0, "adj_close": 10.0, "adj_open": 10.0, "adj_volume": 7172002.0, "symbol": "SFTW-U", "exchange": "XNYS", "date": "2019-11-01T00:00:00+0000"}]}

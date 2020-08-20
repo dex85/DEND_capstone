@@ -1,0 +1,1 @@
+{"pagination": {"limit": 10000, "offset": 0, "count": 1, "total": 1}, "data": [{"open": 7.34, "high": 7.34, "low": 6.6, "close": 6.94, "volume": 33019.0, "adj_high": 7.34, "adj_low": 6.6, "adj_close": 6.94, "adj_open": 7.34, "adj_volume": 33019.0, "symbol": "EBRB", "exchange": "XNYS", "date": "2018-10-29T00:00:00+0000"}]}

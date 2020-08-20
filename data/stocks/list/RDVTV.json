@@ -1,0 +1,1 @@
+{"pagination": {"limit": 10000, "offset": 0, "count": 1, "total": 1}, "data": [{"open": 29.0, "high": 46.4, "low": 29.0, "close": 46.4, "volume": 5066.0, "adj_high": 46.4, "adj_low": 29.0, "adj_close": 46.4, "adj_open": 29.0, "adj_volume": 5066.0, "symbol": "RDVTV", "exchange": "XNAS", "date": "2018-03-26T00:00:00+0000"}]}

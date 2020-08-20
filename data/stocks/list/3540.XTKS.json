@@ -1,0 +1,1 @@
+{"pagination": {"limit": 10000, "offset": 0, "count": 1, "total": 1}, "data": [{"open": 12000.0, "high": 12000.0, "low": 12000.0, "close": 12000.0, "volume": 500.0, "adj_high": null, "adj_low": null, "adj_close": 2400.0, "adj_open": null, "adj_volume": null, "symbol": "3540.XTKS", "exchange": "XTKS", "date": "2016-06-17T00:00:00+0000"}]}
